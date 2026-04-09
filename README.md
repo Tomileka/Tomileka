@@ -48,4 +48,4 @@ I thrive on breaking down complex challenges into practical, automated solutions
 ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tomileka&layout=compact&theme=radical)
 
 
-*"If you're not failing, then you're not trying."*
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
