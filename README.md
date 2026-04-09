@@ -14,13 +14,12 @@ I thrive on breaking down complex challenges into practical, automated solutions
 - **Languages:** Python (Data Structures), SQL, VBA
 - **Tools:** Azure DevOps, Jira, SAP R3, Tableau
 - **Domains:** Requirements Engineering, Test Management, Supply Chain Transformation, Financial Reporting
-- **Languages:** Russian (Native), English (Fluent), French (Fluent), German, Italian, Spanish
+- **Languages:** Russian (Native), English (Fluent), French (Intermediate)
 
 ### 📚 Latest Achievements & Certifications
-- 🏆 **Harvard University:** CS50 for Artificial Intelligence (2025)
+
 - 🤖 **Hugging Face:** AI Agents Fundamentals (2025)
 - 📈 **Google:** Advanced Data Analytics Professional Certificate (2025)
-- 🎖️ **Scrum.org:** Professional Scrum Master I & Product Owner I
 
 ### 📫 How to reach me
 - **LinkedIn:** [Ekaterina Tomilovskaya](https://www.linkedin.com/in/ekaterina-tomilovskaya)
