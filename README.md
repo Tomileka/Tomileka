@@ -48,4 +48,8 @@ I thrive on breaking down complex challenges into practical, automated solutions
 ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tomileka&layout=compact&theme=radical)
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
+---
+
+> "Without data, you're just another person with an opinion." — *W. Edwards Deming*
+
+---
