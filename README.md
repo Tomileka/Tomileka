@@ -18,8 +18,11 @@ I thrive on breaking down complex challenges into practical, automated solutions
 
 ### 📚 Latest Achievements & Certifications
 
+### 📚 Education & Certifications
+- 🎓 **State University of Management (GUU):** Degree in Management (Moscow, Russia)
+- 📊 **Google:** Advanced Data Analytics Professional Certificate [(Verify)](https://www.coursera.org/account/accomplishments/specialization/71EETDTXBAJD ) (2025) — *Specializing in Python, Statistics, and Regression Analysis*
 - 🤖 **Hugging Face:** AI Agents Fundamentals (2025)
-- 📈 **Google:** Advanced Data Analytics Professional Certificate (2025)
+
 
 ### 📫 How to reach me
 - **LinkedIn:** [Ekaterina Tomilovskaya](https://www.linkedin.com/in/ekaterina-tomilovskaya)
