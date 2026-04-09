@@ -28,7 +28,7 @@ I thrive on breaking down complex challenges into practical, automated solutions
 ---
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tomileka&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomileka&layout=compact&theme=radical)
+![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tomileka&layout=compact&theme=radical)
 
 
 *"If you're not failing, then you're not trying."*
