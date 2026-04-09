@@ -6,15 +6,25 @@ I thrive on breaking down complex challenges into practical, automated solutions
 
 ---
 
-### 🚀 What I'm focused on
-- 🤖 **Agentic AI & LLMs:** Actively exploring how AI agents can transform finance, supply chain, and business processes.
-- 📊 **Data Analytics:** Transforming fragmented data into real-time analytics ecosystems.
+### 🛠️ Professional Skills & Tech Stack
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python (Data Structures), SQL, VBA
-- **Tools:** Azure DevOps, Jira, SAP R3, Tableau
-- **Domains:** Requirements Engineering, Test Management, Supply Chain Transformation, Financial Reporting
-- **Languages:** Russian (Native), English (Fluent), French (Intermediate)
+**🎯 Domain Expertise**
+- **Supply Chain & Logistics:** Inventory Optimization, Operations Research, Process Automation.
+- **Project Management:** Requirements Engineering, Agile/Scrum, Stakeholder Management.
+- **Business Analysis:** Financial Reporting, Data-Driven Decision Making, System Integration.
+
+**📊 Data & AI (Google Certified)**
+- **Analysis:** Python (Pandas, NumPy), SQL, **Power Query (M language)**, Applied Statistics.
+- **Visualization:** Tableau, Power BI, Advanced Excel (VBA).
+- **AI Exploration:** Agentic AI (Hugging Face), Prompt Engineering, LLM Integration.
+
+**⚙️ Tools & Platforms**
+- **IT Management:** Azure DevOps, Jira, SAP R3, Splunk.
+- **Collaboration:** Cross-functional Leadership, Mentoring, Change Management.
+
+![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square&logo=google-translate&logoColor=white)
+![English]( https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=skype&logoColor=white)
+![French](https://img.shields.io/badge/French-Intermediate-white?style=flat-square&logo=france24&logoColor=blue)
 
 ### 📚 Latest Achievements & Certifications
 
