@@ -28,7 +28,6 @@ I thrive on breaking down complex challenges into practical, automated solutions
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+![Stats](https://vercel.app?username=Tomileka&show_icons=true&theme=radical)
 
 *"If you're not failing, then you're not trying."*
