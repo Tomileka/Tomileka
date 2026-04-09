@@ -27,6 +27,9 @@ I thrive on breaking down complex challenges into practical, automated solutions
 
 ---
 
-https://herokuapp.com?user=Tomileka&theme=radical
+github-readme-streak-stats https://herokuapp.com?user=Tomileka&theme=radical
+
+![GitHub Streak]([https://herokuapp.com](https://herokuapp.com?user=Tomileka&theme=radical))
+
 
 *"If you're not failing, then you're not trying."*
