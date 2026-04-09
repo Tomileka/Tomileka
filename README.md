@@ -19,7 +19,10 @@ I thrive on breaking down complex challenges into practical, automated solutions
 ### 📚 Latest Achievements & Certifications
 
 ### 📚 Education & Certifications
-- 🎓 **State University of Management (GUU):** Degree in Management (Moscow, Russia)
+- 🎓 **State University of Management (SUM):** Master’s Degree (Specialist) in Management
+  - **Major:** Supply Chain Management & Logistics
+  - **Academic Focus:** Higher Mathematics, Applied Statistics, and Optimization Models
+
 - 📊 **Google:** Advanced Data Analytics Professional Certificate [(Verify)](https://www.coursera.org/account/accomplishments/specialization/71EETDTXBAJD ) (2025) — *Specializing in Python, Statistics, and Regression Analysis*
 - 🤖 **Hugging Face:** AI Agents Fundamentals (2025)
 - 📊 **IBM:** Product Management: An introduction [(Verify)](https://www.coursera.org/account/accomplishments/verify/MAKEV6AL1599) (2025) — *Examaine the end-to-end product management lifecycle*
