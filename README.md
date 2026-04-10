@@ -38,7 +38,7 @@ I don't just analyze numbers. Having been a **Logistics Director**, I understand
 - **Business Analysis:** Financial Reporting, Data-Driven Decision Making, System Integration.
 
 **📊 Data & AI (Google Certified)**
-- **Analysis:** Python, MySQL, PostgreSQL, BigQuery, Power Query (M language), SAP BW, Applied Statistics.
+- **Analysis:** Python (Pandas, NumPy, Scikit-learn), MySQL, PostgreSQL, BigQuery, Power Query (M language), SAP BW, Applied Statistics.
 - **Visualization:** Tableau, Power BI (DAX), Advanced Excel (VBA).
 - **AI Exploration:** Agentic AI (Hugging Face), Prompt Engineering, LLM Integration.
 
