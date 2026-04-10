@@ -1,8 +1,29 @@
 # Hi there! I'm Ekaterina Tomilovskaya 👋
 
+### 📊 Data Scintist | Former Logistics Director 🚛
 Senior Business Analyst & Project Manager at the intersection of **Finance, Supply Chain, Data, and AI**. 
 With over 20 years of experience in delivering complex IT and data transformation projects, 
-I thrive on breaking down complex challenges into practical, automated solutions.
+I thrive on breaking down complex challenges into practical, automated solutions,
+Bringing strategic leadership and deep supply chain expertise from global industry leaders into data-driven decision-making.
+
+---
+
+### 💼 Professional Journey
+- **Current:** Data Sientist @ **Knauf** 🏗️
+- **Past Leadership:** Logistics Director with a proven track record at:
+  - **adidas** 👟
+  - **Renault** & **Nissan** 🚗
+  - **VinFast** (Electric Vehicles) ⚡
+  
+### 🌍 International Experience
+I have lived and worked in diverse environments, which shaped my global perspective:
+- **France** 🇫🇷 (Professional experience & Cultural immersion)
+- **Vietnam** 🇻🇳 (Operations in a fast-paced emerging market)
+
+---
+
+### 💡 Why me?
+I don't just analyze numbers. Having been a **Logistics Director**, I understand the physical business processes behind every data point. I bridge the gap between complex operations and actionable insights.
 
 ---
 
