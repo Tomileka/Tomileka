@@ -36,7 +36,8 @@ I thrive on breaking down complex challenges into practical, automated solutions
 - 📊 **Google:** Advanced Data Analytics Professional Certificate [(Verify)](https://www.coursera.org/account/accomplishments/specialization/71EETDTXBAJD ) (2025) — *Specializing in Python, Statistics, and Regression Analysis*
 - 🤖 **Hugging Face:** AI Agents Fundamentals (2025)
 - 📊 **IBM:** Product Management: An introduction [(Verify)](https://www.coursera.org/account/accomplishments/verify/MAKEV6AL1599) (2025) — *Examaine the end-to-end product management lifecycle*
-
+- 📊 **University of Michigan:** Python Data Structures [(Verify)](https://www.coursera.org/account/accomplishments/certificate/8Z69MD9Y4GAC) (2020) — *Data manipulation & Data Analysis*
+- 📊 **University of Michigan:** Programming for Everybody (Getting Started with Python) [(Verify)](https://www.coursera.org/account/accomplishments/verify/SK742HNJX6GW) (2020) — *Fundamentals of Python*
 
 ### 📫 How to reach me
 - **LinkedIn:** [Ekaterina Tomilovskaya](https://www.linkedin.com/in/ekaterina-tomilovskaya)
