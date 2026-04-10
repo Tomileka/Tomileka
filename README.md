@@ -23,7 +23,8 @@ I have lived and worked in diverse environments, which shaped my global perspect
 ---
 
 ### 💡 Why me?
-I don't just analyze numbers. Having been a **Logistics Director**, I understand the physical business processes behind every data point. I bridge the gap between complex operations and actionable insights.
+I don't just analyze numbers. Having been a **Logistics Director**, I understand the physical business processes behind every data point. 
+I bridge the gap between complex operations and actionable insights.
 
 ---
 
