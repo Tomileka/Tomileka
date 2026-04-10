@@ -1,24 +1,24 @@
 # Hi there! I'm Ekaterina Tomilovskaya 👋
 
-### 📊 Data Scintist | Former Logistics Director 🚛
-Senior Business Analyst & Project Manager at the intersection of **Finance, Supply Chain, Data, and AI**. 
-With over 20 years of experience in delivering complex IT and data transformation projects, 
-I thrive on breaking down complex challenges into practical, automated solutions,
-Bringing strategic leadership and deep supply chain expertise from global industry leaders into data-driven decision-making.
+### 📊 Data Scientist | Former Logistics Director 🚛
+
+**Senior Business Expert & Project Manager** at the intersection of Finance, Supply Chain, Data, and AI. With over **20 years of experience** in delivering complex IT and data transformation projects, I thrive on breaking down complex challenges into practical, automated solutions. I bring strategic leadership and deep supply chain expertise from global industry leaders into data-driven decision-making.
 
 ---
 
 ### 💼 Professional Journey
-- **Current:** Data Sientist @ **Knauf** 🏗️
+- **Current:** Data Scientist @ **Knauf** 🏗️
 - **Past Leadership:** Logistics Director with a proven track record at:
   - **adidas** 👟
-  - **Renault** & **Nissan** 🚗
+  - **Renault & Nissan** 🚗
   - **VinFast** (Electric Vehicles) ⚡
-  
+
 ### 🌍 International Experience
-I have lived and worked in diverse environments, which shaped my global perspective:
+I have lived and worked in diverse environments, shaping my global perspective:
 - **France** 🇫🇷 (Professional experience & Cultural immersion)
 - **Vietnam** 🇻🇳 (Operations in a fast-paced emerging market)
+
+**Languages:**
   
 ![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square&logo=google-translate&logoColor=white)
 ![English]( https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=skype&logoColor=white)
@@ -26,8 +26,7 @@ I have lived and worked in diverse environments, which shaped my global perspect
 ---
 
 ### 💡 Why me?
-I don't just analyze numbers. Having been a **Logistics Director**, I understand the physical business processes behind every data point. 
-I bridge the gap between complex operations and actionable insights.
+I don't just analyze numbers. Having been a **Logistics Director**, I understand the physical business processes behind every data point. I bridge the gap between complex operations and actionable insights.
 
 ---
 
@@ -35,7 +34,7 @@ I bridge the gap between complex operations and actionable insights.
 
 **🎯 Domain Expertise**
 - **Supply Chain & Logistics:** Inventory Optimization, Operations Research, Process Automation.
-- **Project Management:** Requirements Engineering, Agile/Scrum, Stakeholder Management.
+- **Project Management:** Requirements Engineering, Agile/Scrum (PSM I), Stakeholder Management.
 - **Business Analysis:** Financial Reporting, Data-Driven Decision Making, System Integration.
 
 **📊 Data & AI (Google Certified)**
@@ -44,16 +43,17 @@ I bridge the gap between complex operations and actionable insights.
 - **AI Exploration:** Agentic AI (Hugging Face), Prompt Engineering, LLM Integration.
 
 **⚙️ Tools & Platforms**
-- **Project Management:** Jira
-- **ERP & Data Warehousing:** SAP HANA, Blue Yonder (JDA), MS Dinamics NAV.
+- **Project Management:** Jira, Azure DevOps.
+- **ERP & Data Warehousing:** SAP HANA, Blue Yonder (JDA), MS Dynamics NAV.
 - **Collaboration:** Cross-functional Leadership, Mentoring, Change Management.
 
-### 📚 Latest Achievements & Certifications
+---
 
 ### 📚 Education & Certifications
+
 - 🎓 **State University of Management (SUM):** Master’s Degree (Specialist) in Management
-  - **Major:** Supply Chain Management & Logistics
-  - **Academic Focus:** Higher Mathematics, Applied Statistics, and Optimization Models
+  - *Major: Supply Chain Management & Logistics*
+  - *Academic Focus: Higher Mathematics, Applied Statistics, and Optimization Models*
 
 - 📊 **Google:** Advanced Data Analytics Professional Certificate [(Verify)](https://www.coursera.org/account/accomplishments/specialization/71EETDTXBAJD ) (2025) — *Specializing in Python, Statistics, and Regression Analysis*
 - 🤖 **Hugging Face:** AI Agents Fundamentals (2025)
