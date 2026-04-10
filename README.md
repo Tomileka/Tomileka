@@ -14,12 +14,13 @@ I thrive on breaking down complex challenges into practical, automated solutions
 - **Business Analysis:** Financial Reporting, Data-Driven Decision Making, System Integration.
 
 **📊 Data & AI (Google Certified)**
-- **Analysis:** Python (Pandas, NumPy), SQL, **Power Query (M language)**, Applied Statistics.
-- **Visualization:** Tableau, Power BI, Advanced Excel (VBA).
+- **Analysis:** Python, MySQL, PostgreSQL, BigQuery, Power Query (M language), SAP BW Applied Statistics.
+- **Visualization:** Tableau, Power BI (DAX), Advanced Excel (VBA).
 - **AI Exploration:** Agentic AI (Hugging Face), Prompt Engineering, LLM Integration.
 
 **⚙️ Tools & Platforms**
-- **IT Management:** Azure DevOps, Jira, SAP R3, Splunk.
+- **Project Management:** Jira
+- **ERP & Data Warehousing:** SAP HANA, Blue Yonder (JDA), MS Dinamics NAV.
 - **Collaboration:** Cross-functional Leadership, Mentoring, Change Management.
 
 ![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square&logo=google-translate&logoColor=white)
