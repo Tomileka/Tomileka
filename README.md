@@ -19,7 +19,10 @@ Bringing strategic leadership and deep supply chain expertise from global indust
 I have lived and worked in diverse environments, which shaped my global perspective:
 - **France** 🇫🇷 (Professional experience & Cultural immersion)
 - **Vietnam** 🇻🇳 (Operations in a fast-paced emerging market)
-
+  
+![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square&logo=google-translate&logoColor=white)
+![English]( https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=skype&logoColor=white)
+![French](https://img.shields.io/badge/French-Intermediate-white?style=flat-square&logo=france24&logoColor=blue)
 ---
 
 ### 💡 Why me?
@@ -44,10 +47,6 @@ I bridge the gap between complex operations and actionable insights.
 - **Project Management:** Jira
 - **ERP & Data Warehousing:** SAP HANA, Blue Yonder (JDA), MS Dinamics NAV.
 - **Collaboration:** Cross-functional Leadership, Mentoring, Change Management.
-
-![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square&logo=google-translate&logoColor=white)
-![English]( https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=skype&logoColor=white)
-![French](https://img.shields.io/badge/French-Intermediate-white?style=flat-square&logo=france24&logoColor=blue)
 
 ### 📚 Latest Achievements & Certifications
 
