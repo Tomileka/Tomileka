@@ -1,8 +1,8 @@
 # Hi there! I'm Ekaterina Tomilovskaya 👋
 
-### 📊 Data Scientist | Former Logistics Director 🚛
+### 📊 Data Scientist | ML Engineer 🚛
 
-**Senior Business Expert & Project Manager** at the intersection of Finance, Supply Chain, Data, and AI. With over **20 years of experience** in delivering complex IT and data transformation projects, I thrive on breaking down complex challenges into practical, automated solutions. I bring strategic leadership and deep supply chain expertise from global industry leaders into data-driven decision-making.
+**Senior Business Expert & Project Manager** at the intersection of Finance, Marketing, Supply Chain, Data, and AI. With over **20 years of experience** in delivering complex IT and data transformation projects, I thrive on breaking down complex challenges into practical, automated solutions. I bring strategic leadership and deep supply chain expertise from global industry leaders into data-driven decision-making.
 
 ---
 
