@@ -1,6 +1,6 @@
 # Hi there! I'm Ekaterina Tomilovskaya 👋
 
-### 📊 Data Scientist | ML Engineer 🚛
+### 📊 Data-Driven Product Manager | Product Operations | Marketing & Analytics Expert ⚡
 
 **Senior Business Expert & Project Manager** at the intersection of Finance, Marketing, Supply Chain, Data, and AI. With over **20 years of experience** in delivering complex IT and data transformation projects, I thrive on breaking down complex challenges into practical, automated solutions. I bring strategic leadership and deep supply chain expertise from global industry leaders into data-driven decision-making.
 
@@ -26,7 +26,7 @@ I have lived and worked in diverse environments, shaping my global perspective:
 ---
 
 ### 💡 Why me?
-I don't just analyze numbers. Having been a **Logistics Director**, I understand the physical business processes behind every data point. I bridge the gap between complex operations and actionable insights.
+I don't just analyze numbers. Having led scale operations and product launches at global brands (Adidas, Renault), I bridge the gap between complex business strategy and high-impact data insights. I build data products that drive revenue, not just reports.
 
 ---
 
